@@ -1,15 +1,19 @@
 export const services = [
   {
-    name: 'Cyber Security',
+    name: 'AI Integration',
     description:
-      'Implementing security measures, such as SSL certificates and robust authentication systems, to protect websites from cyber threats.',
+      'Empowering websites with modern tecnologies, bringing more stability and fancy design',
   },
   {
     name: 'SEO Optimization',
     description:
       'Optimizing websites to improve their visibility and ranking in search engine results, increasing organic traffic.',
   },
-
+  {
+    name: 'Cyber Security',
+    description:
+      'Implementing security measures, such as SSL certificates and robust authentication systems, to protect websites from cyber threats.',
+  },
   {
     name: 'E-commerce Development',
     description:
@@ -25,8 +29,8 @@ export const services = [
       'Implementing user interfaces using HTML, CSS, and JavaScript to enhance website interactivity and responsiveness.',
   },
   {
-    name: 'Front-end Development',
+    name: 'Website Maintenance and Updates',
     description:
-      'Implementing user interfaces using HTML, CSS, and JavaScript to enhance website interactivity and responsiveness.',
+      'Providing ongoing support, bug fixes, and updates to ensure websites remain secure, functional, and up-to-date.',
   },
 ];

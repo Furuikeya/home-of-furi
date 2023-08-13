@@ -1,8 +1,14 @@
 .active-page {
+  // background-image: url('../../assets/pics/keyboard.jpeg');
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  // opacity: 0.5;
+  padding-left: 40px;
+  padding-right: 40px;
   display: flex;
   margin: auto;
   justify-content: center;
-  color: green;
+  color: rgb(145, 57, 221);
 }
 h1 {
   text-align: center;

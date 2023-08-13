@@ -22,7 +22,7 @@ const Display = () => {
 
   if (currentPage === 'technologies') {
     return (
-      <div className='active-page'>
+      <div className='active-page '>
         <Technologies />
       </div>
     );
