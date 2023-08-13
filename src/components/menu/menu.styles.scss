@@ -1,0 +1,33 @@
+.menu {
+  padding-top: 10px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  list-style-type: none;
+
+  .menu-item {
+    width: 33vw;
+    font-size: 1rem;
+    font-weight: 500;
+    color: beige;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+    border-left: 4px solid;
+    border-color: rgb(153, 134, 194);
+  }
+  & :hover {
+    background-color: #6b9080;
+    cursor: pointer;
+  }
+
+  .active-link {
+    background-color: #629880;
+    color: rgb(82, 57, 124);
+    font-weight: 600;
+  }
+}
