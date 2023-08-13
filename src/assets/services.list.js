@@ -24,4 +24,9 @@ export const services = [
     description:
       'Implementing user interfaces using HTML, CSS, and JavaScript to enhance website interactivity and responsiveness.',
   },
+  {
+    name: 'Front-end Development',
+    description:
+      'Implementing user interfaces using HTML, CSS, and JavaScript to enhance website interactivity and responsiveness.',
+  },
 ];
