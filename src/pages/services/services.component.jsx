@@ -7,10 +7,10 @@ const Services = () => {
   return (
     <div>
       <h1>Services</h1>
-      {services.map((service) => (
+      {services.map((service, i) => (
         <li>
           <div className='list-in-display'>
-            <h2>{service.name}</h2>
+            <h2>{i + 1 + '. ' + service.name}</h2>
             <h4>{service.description}</h4>
             <hr />
           </div>

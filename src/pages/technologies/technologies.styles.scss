@@ -1,7 +1,8 @@
 .imageContainer {
   display: flex;
-  width: 750px;
-  height: 750px;
+  width: 60vw;
+  height: 70vh;
+  object-fit: scale-down;
   background-image: url('../../assets/pics/techs.jpg');
   background-size: cover;
 }

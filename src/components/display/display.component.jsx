@@ -7,6 +7,7 @@ import About from '../../pages/about/about.component';
 import { PageContext } from '../../contexts/page.context';
 
 import './display.styles.scss';
+import Welcome from '../../pages/welcome/welcome.component';
 
 const Display = () => {
   const { currentPage } = useContext(PageContext);
@@ -37,7 +38,7 @@ const Display = () => {
   }
 
   if (currentPage === '') {
-    return <h1>Welcome</h1>;
+    return <Welcome />;
   }
 };
 
