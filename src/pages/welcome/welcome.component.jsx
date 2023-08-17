@@ -7,7 +7,7 @@ const Welcome = () => {
     <div className='welcome-container'>
       <img src={namaste} alt='namaste' />
       <h4>
-        Welcome to Ivan "furi" Shirokov's page! I am thrilled to have you here.
+        Welcome to Ivan "furi" Shirokov's page! I am thrilled to have you here!
         With a passion for crafting exceptional websites, I am dedicated to
         bringing your digital visions to life. As a web developer with over then
         5 years of experience, I specialize in creating responsive and
