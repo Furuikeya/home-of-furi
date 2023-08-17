@@ -1,6 +1,6 @@
 {
-  "homepage": "http://furuikeya.github.io/home-of-furi/",
   "name": "mywebsite",
+  "homepage": "https://furuikeya.github.io/home-of-furi/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
