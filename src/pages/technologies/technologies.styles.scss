@@ -1,8 +1,17 @@
-.imageContainer {
+// .imageContainer {
+//   display: flex;
+//   width: 100vw;
+//   height: 80vh;
+//   object-fit: scale-down;
+//   background-image: url('../../assets/pics/techs.jpg');
+//   background-size: cover;
+// }
+
+.logos {
+  width: 80vw;
   display: flex;
-  width: 60vw;
-  height: 70vh;
-  object-fit: scale-down;
-  background-image: url('../../assets/pics/techs.jpg');
-  background-size: cover;
+  flex-wrap: wrap;
+  // flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
