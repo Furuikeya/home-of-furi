@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/home-of-furi/static/css/main.9b09c1cc.css",
-    "main.js": "/home-of-furi/static/js/main.ee553173.js",
+    "main.css": "/home-of-furi/static/css/main.470a28c5.css",
+    "main.js": "/home-of-furi/static/js/main.324459b1.js",
     "static/js/787.21d17fcb.chunk.js": "/home-of-furi/static/js/787.21d17fcb.chunk.js",
-    "static/media/techs.jpg": "/home-of-furi/static/media/techs.5fe11bb83117ed9b8807.jpg",
     "static/media/namaste.jpg": "/home-of-furi/static/media/namaste.670823a26638348b5437.jpg",
+    "static/media/logoFuri.png": "/home-of-furi/static/media/logoFuri.a45e0048e10089befcb6.png",
     "index.html": "/home-of-furi/index.html",
-    "main.9b09c1cc.css.map": "/home-of-furi/static/css/main.9b09c1cc.css.map",
-    "main.ee553173.js.map": "/home-of-furi/static/js/main.ee553173.js.map",
+    "main.470a28c5.css.map": "/home-of-furi/static/css/main.470a28c5.css.map",
+    "main.324459b1.js.map": "/home-of-furi/static/js/main.324459b1.js.map",
     "787.21d17fcb.chunk.js.map": "/home-of-furi/static/js/787.21d17fcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b09c1cc.css",
-    "static/js/main.ee553173.js"
+    "static/css/main.470a28c5.css",
+    "static/js/main.324459b1.js"
   ]
 }
