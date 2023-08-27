@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MyPic from '../../assets/pics/myphoto2_middle.jpg';
+import MyPic from '../../assets/pics/myphoto2_small.jpg';
 // import WhatsApp from '../../assets/pics/social/whatsapp.png';
 // import Telegram from '../../assets/pics/social/telegram.png';
 // import Github from '../../assets/pics/social/github.png';
@@ -11,6 +11,7 @@ const About = () => {
   return (
     <div className='about'>
       <h1>Contacts</h1>
+      <h4 className='dimmed'>Just contact me any way you like!</h4>
       <div className='mini-display'>
         <img src={MyPic} alt='furuikeya' />
         <div className='contacts'>
@@ -30,6 +31,9 @@ const About = () => {
 
           <h4>Instagram: </h4>
           <h4>@obmorog</h4>
+
+          <h4>Facebook: </h4>
+          <h4>facebook.com/ivan.shirokov</h4>
         </div>
       </div>
     </div>

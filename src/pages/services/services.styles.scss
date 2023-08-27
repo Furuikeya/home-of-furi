@@ -1,3 +1,9 @@
+.services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 li {
   list-style: none;
 }
@@ -11,4 +17,7 @@ li {
     // text-indent: 5vmin;
     color: rgb(43, 53, 122);
   }
+}
+.dimmed {
+  color: rgb(118, 118, 184);
 }
