@@ -4,11 +4,6 @@ export const services = [
     description: `Creating visually appealing and functional websites tailored to client's needs.`,
   },
   {
-    name: 'AI Integration',
-    description:
-      'Empowering websites with modern tecnologies, bringing more stability and fancy design.',
-  },
-  {
     name: 'SEO Optimization',
     description:
       'Optimizing websites to improve their visibility and ranking in search engine results, increasing organic traffic.',
@@ -17,6 +12,11 @@ export const services = [
     name: 'Cyber Security',
     description:
       'Implementing security measures, such as SSL certificates and robust authentication systems, to protect websites from cyber threats.',
+  },
+  {
+    name: 'AI Integration',
+    description:
+      'Empowering websites with modern tecnologies, bringing more stability and fancy design.',
   },
   {
     name: 'E-commerce Development',
@@ -36,6 +36,6 @@ export const services = [
   {
     name: 'And so much more!',
     description:
-      'Major Js libraries and frameworks, state management with Redux, React Routing etc.',
+      'Making the best use of major Js libraries and frameworks, state management with Redux making complexity simple',
   },
 ];

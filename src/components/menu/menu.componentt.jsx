@@ -28,7 +28,7 @@ const Menu = () => {
         className={`menu-item ${currentPage === 'about' ? 'active-link' : ''}`}
         onClick={() => setCurrentPage('about')}
       >
-        About
+        Contacts
       </li>
     </ul>
   );

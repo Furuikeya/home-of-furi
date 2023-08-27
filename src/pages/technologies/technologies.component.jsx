@@ -6,8 +6,6 @@ import LogoContainer from '../../components/logoContainer/logoContainer.componen
 import './technologies.styles.scss';
 
 const Technologies = () => {
-  // const technologies = {};
-
   return (
     <div>
       <h1>Technologies</h1>
@@ -16,7 +14,6 @@ const Technologies = () => {
           <LogoContainer name={pic.name} imageUrl={pic.imageUrl} />
         ))}
       </div>
-      {/* <div className='imageContainer'></div> */}
     </div>
   );
 };

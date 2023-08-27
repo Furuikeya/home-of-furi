@@ -2,10 +2,10 @@ import React from 'react';
 
 import './logoContainer.styles.scss';
 
-const LogoContainer = (props) => {
+const LogoContainer = ({ name, imageUrl }) => {
   return (
     <div className='logo-container'>
-      <img src={props.imageUrl} alt={props.name} />
+      <img src={imageUrl} alt={name} />
     </div>
   );
 };

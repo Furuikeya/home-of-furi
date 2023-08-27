@@ -1,17 +1,8 @@
-// .imageContainer {
-//   display: flex;
-//   width: 100vw;
-//   height: 80vh;
-//   object-fit: scale-down;
-//   background-image: url('../../assets/pics/techs.jpg');
-//   background-size: cover;
-// }
-
 .logos {
   width: 70vw;
   display: flex;
   flex-wrap: wrap;
   // flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
